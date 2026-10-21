@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
 </div>
@@ -59,3 +60,6 @@ A interactive web application that visualizes how different sorting algorithms w
   - RequestAnimationFrame for smooth animations
 
 >>>>>>> d879192eff03f4070b5dfd11ae8a91b1037ef734
+=======
+
+>>>>>>> 816f8f176c81e5ea539146cb83d02a7ca7fa7692
