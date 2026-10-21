@@ -1,21 +1,6 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<div align="center
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
 =======
 # Sorting Algorithm Visualizer
-
-
 
 A interactive web application that visualizes how different sorting algorithms work in real-time. Perfect for students, educators, and anyone interested in understanding sorting algorithms through visualization.
 
