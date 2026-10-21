@@ -1,0 +1,6 @@
+{
+  "name": "Algorithm Sort Visualizer",
+  "description": "Interactive, real-time sorting algorithm visualizer with step-by-step playback, sound synthesis, code tracking, and complexity analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
